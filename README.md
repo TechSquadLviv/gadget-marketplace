@@ -40,5 +40,6 @@ Explore Our Product Categories:
 
 # Architecture
 ASP.NET MVC Entity Framework project
+
 ![image](https://github.com/TechSquadLviv/gadget-marketplace/assets/71181343/3286a012-2b6a-44ef-86c9-2d5809b04ca7)
 ![image](https://github.com/TechSquadLviv/gadget-marketplace/assets/71181343/469a1e33-ea60-43d6-a530-be6d0ece9c68)
